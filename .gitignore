@@ -1,0 +1,9 @@
+.venv
+data/*.sqlite
+data/*.sqlite-shm
+data/*.sqlite-wal
+raw/*
+
+__pycache__
+.venv/
+vnev/
